@@ -2,6 +2,8 @@
 
 This project aims to facilitate the management and interoperability of academic CVs, with a focus on integration with the [CIÊNCIAVITAE](https://cienciavitae.pt/) platform. It provides a modern web application composed of a Kotlin/Spring Boot backend and a React/TypeScript frontend, allowing users to import, edit, and export CV data in a structured and efficient way.
 
+📄 **[Full project report (in Portuguese)](docs/rfG28.pdf)** - architecture, data model, technologies, implementation and tests.
+
 ## Key Features
 
 - Import academic CVs from external platforms such as Lattes (Brazil) via XML.
